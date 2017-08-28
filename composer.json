@@ -1,0 +1,12 @@
+{
+    "name": "lszymkowiak/test",
+    "description": "Test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Łukasz Szymkowiak",
+            "email": "ryzy82@gmail.com"
+        }
+    ],
+    "require": {}
+}
